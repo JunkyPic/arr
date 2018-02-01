@@ -1,0 +1,17 @@
+{
+    "name": "junky/arr",
+    "description": "A congregation of various array functionality",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Junky",
+            "email": "junkypic@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": { "Arr\\": "src/" }
+    }
+}
